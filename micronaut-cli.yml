@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: mx.nic.service
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, docker, file-watch, gradle, http-client, jackson-xml, java, java-application, junit, logback, openapi, properties, readme, shade, tomcat-server]
